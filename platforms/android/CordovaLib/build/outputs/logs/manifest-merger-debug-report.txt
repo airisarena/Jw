@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
+INJECTED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
+INJECTED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
+INJECTED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
+INJECTED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
+INJECTED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
+INJECTED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml:20:1-23:12
+	package
+		ADDED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml:21:7-35
+		INJECTED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml
+		INJECTED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml:21:36-61
+		INJECTED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml
+		INJECTED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml:21:62-85
+		INJECTED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml
+		INJECTED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml:22:5-74
+	android:targetSdkVersion
+		ADDED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml:22:42-71
+	android:minSdkVersion
+		ADDED from /Users/xuke163/Jw/platforms/android/CordovaLib/AndroidManifest.xml:22:15-41
