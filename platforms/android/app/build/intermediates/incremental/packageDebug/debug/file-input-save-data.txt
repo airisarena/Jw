@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Mar 21 16:59:56 CST 2018
+#Wed Mar 21 18:14:58 CST 2018
 25.file=/Users/xuke163/Jw/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/mipmap-ldpi-v4/icon.png
 25.base=/Users/xuke163/Jw/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_
 22.set=ANDROID_RESOURCE
